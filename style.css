@@ -4,7 +4,6 @@ body {
   align-items: center;
   height: 100vh;
 
-  background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(159,9,196,1) 0%, rgba(240,79,246,1) 36%, rgba(197,41,201,1) 78%);
 }
 
